@@ -9,7 +9,7 @@ A demonstration of [react-chartjs-2 issue #250](https://github.com/jerairrest/re
 ## To demonstrate the bug
 
 Click the *Toggle data object* button twice. Each time the button is clicked,
-the data object that is being passed to react-chartjs-2 should be toggled.
+the data object that is being passed to react-chartjs-2 is toggled.
 
 ## Result
 
