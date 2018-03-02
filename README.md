@@ -20,7 +20,7 @@ of `this.datasetObject2` and, as a result, the chart does not change.
 
 ## Workaround
 
-If you're passing a `data` variable to Chart.js, do this first:
+If you're passing a `data` variable to react-chartjs-2, do this first:
 
 ```js
 data = JSON.parse(JSON.stringify(data));
